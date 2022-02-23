@@ -1,3 +1,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
 	url = git@github.com:sz5ps5/kubernetes.git
+[submodule "AWs-Create-Attach-Volume"]
+	path = AWs-Create-Attach-Volume
+	url = git@github.com:sz5ps5/AWs-Create-Attach-Volume.git

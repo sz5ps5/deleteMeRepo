@@ -1,2 +1,6 @@
 suppliers
+<<<<<<< HEAD
 Local Vendor
+=======
+Added online
+>>>>>>> c22c02fd06916876114723c4206bc312541980c8
